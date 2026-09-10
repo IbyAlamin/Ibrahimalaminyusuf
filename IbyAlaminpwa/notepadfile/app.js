@@ -34,7 +34,7 @@
           <main class="content">
             <p class="eyebrow">FOUNDATION TRACK · PWA PRACTICAL</p>
             <div class="hero-grid">
-              <div><h1>Keep learning when the network leaves.</h1>
+              <div><h1>Keep learning when the network leaves.</h1><br>
               <h2>Ibrahim Al-Amin Yusuf</h2>
               <h2>Computer Engineering Department</h2>
               <h2>2025/2/103677CP</h2>
